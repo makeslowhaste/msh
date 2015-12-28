@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>make slow haste</title>
+</head>
+<body>
+
 <style>
 	body {
 		color: black;
@@ -25,3 +33,8 @@
 		coming soon.
 	</p>
 </div>
+	
+</body>
+</html>
+
+
